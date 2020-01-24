@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1544085089 source:c:\users\hp\desktop\codeblock\infixtopostfix1\main.cpp
+	<bits/stdc++.h>
+	"stackType.cpp"
+
+1544040415 source:c:\users\hp\desktop\codeblock\infixtopostfix1\stacktype.cpp
+	"stackType.h"
+
+1544033773 c:\users\hp\desktop\codeblock\infixtopostfix1\stacktype.h
+
+1544040415 c:\users\hp\desktop\codeblock\infixtopostfix1\stacktype.cpp
+	"stackType.h"
+
